@@ -22,6 +22,7 @@
 - [Selecting items](Editor-Overview#selecting)
 - [Pushing items](Editor-Overview#pushing-items)
 - [Snapping to grid](Editor-Overview#snapping)
+- [Editor gestures](Editor-Gestures)
 - [Commands](Editor-Overview#commands)
 
 [ItemContainer overview](ItemContainer-Overview)
